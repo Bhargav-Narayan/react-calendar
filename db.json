@@ -1,0 +1,103 @@
+{
+  "events": [
+    {
+      "eventName": "Reactjs interview with Bhargava",
+      "eventDescription": "3rd Round of interview",
+      "eventType": "event",
+      "eventStartTime": "2014-08-18T08:00:54.000Z",
+      "eventEndTime": "2014-08-18T09:00:54.000Z",
+      "selectedDate": "2020/8/20",
+      "month": "8",
+      "year": "2020",
+      "id": "2020/8/20-Mon Aug 18 2014 13:30:54 GMT+0530 (India Standard Time)"
+    },
+    {
+      "eventName": "Briefing",
+      "eventDescription": "Briefing on BI",
+      "eventType": "event",
+      "eventStartTime": "2014-08-18T08:00:54.000Z",
+      "eventEndTime": "2014-08-18T09:00:54.000Z",
+      "selectedDate": "2020/8/19",
+      "month": "8",
+      "year": "2020",
+      "id": "2020/8/19-Mon Aug 18 2014 13:30:54 GMT+0530 (India Standard Time)"
+    },
+    {
+      "eventName": "Interview with Jeevan",
+      "eventDescription": "2nd round of interview with Jeevan",
+      "eventType": "event",
+      "eventStartTime": "2014-08-18T08:00:54.000Z",
+      "eventEndTime": "2014-08-18T09:00:54.000Z",
+      "selectedDate": "2020/8/21",
+      "month": "8",
+      "year": "2020",
+      "id": "2020/8/21-Mon Aug 18 2014 13:30:54 GMT+0530 (India Standard Time)"
+    },
+    {
+      "eventName": "Town hall",
+      "eventDescription": "Open house discussion on future projects",
+      "eventType": "event",
+      "eventStartTime": "2014-08-18T11:30:54.000Z",
+      "eventEndTime": "2014-08-18T12:30:54.000Z",
+      "selectedDate": "2020/8/19",
+      "month": "8",
+      "year": "2020",
+      "id": "2020/8/19-Mon Aug 18 2014 17:00:54 GMT+0530 (India Standard Time)"
+    },
+    {
+      "eventName": "Sprint status",
+      "eventDescription": "Daily sprint status update",
+      "eventType": "event",
+      "eventStartTime": "2014-08-18T13:00:54.000Z",
+      "eventEndTime": "2014-08-18T14:00:54.000Z",
+      "selectedDate": "2020/8/19",
+      "month": "8",
+      "year": "2020",
+      "id": "2020/8/19-Mon Aug 18 2014 18:30:54 GMT+0530 (India Standard Time)"
+    },
+    {
+      "eventName": "Casual meet",
+      "eventDescription": "Lets connect casually",
+      "eventType": "event",
+      "eventStartTime": "2014-08-18T14:15:54.000Z",
+      "eventEndTime": "2014-08-18T14:45:54.000Z",
+      "selectedDate": "2020/8/19",
+      "month": "8",
+      "year": "2020",
+      "id": "2020/8/19-Mon Aug 18 2014 19:45:54 GMT+0530 (India Standard Time)"
+    },
+    {
+      "eventName": "Casual meet",
+      "eventDescription": "Lets connect casually",
+      "eventType": "event",
+      "eventStartTime": "2014-08-18T14:15:54.000Z",
+      "eventEndTime": "2014-08-18T14:45:54.000Z",
+      "selectedDate": "2020/9/9",
+      "month": "9",
+      "year": "2020",
+      "id": "2020/9/9-Mon Aug 18 2014 19:45:54 GMT+0530 (India Standard Time)"
+    },
+    {
+      "eventName": "Casual meet",
+      "eventDescription": "Lets connect casually",
+      "eventType": "event",
+      "eventStartTime": "2014-08-18T14:15:54.000Z",
+      "eventEndTime": "2014-08-18T14:45:54.000Z",
+      "selectedDate": "2020/9/10",
+      "month": "9",
+      "year": "2020",
+      "id": "2020/9/10-Mon Aug 18 2014 19:45:54 GMT+0530 (India Standard Time)"
+    },
+    {
+      "eventName": "Sprint status",
+      "eventDescription": "Daily updates on status",
+      "eventType": "event",
+      "eventStartTime": "2014-08-18T14:15:54.000Z",
+      "eventEndTime": "2014-08-18T14:45:54.000Z",
+      "selectedDate": "2020/9/11",
+      "month": "9",
+      "year": "2020",
+      "id": "2020/9/11-Mon Aug 18 2014 19:45:54 GMT+0530 (India Standard Time)"
+    }
+  ]
+}

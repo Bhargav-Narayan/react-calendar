@@ -8,14 +8,15 @@ tr {
 }
 
 .calendar-container {
-  /* border: 2px solid skyblue; */
+  max-width: 100%;
 }
 
 .calendar {
   background-color: white;
   border-spacing: 0;
   border-collapse: collapse;
-  width: 100%;
+  width: 95%;
+  margin: auto;
 }
 
 .calendar-header {
@@ -29,8 +30,8 @@ tr {
 }
 
 td {
-  width: 14.28%;
-  height: 60px !important;
+  width: 10%;
+  height: 75px !important;
   border: 1px solid #4285f4;
 }
 
@@ -39,6 +40,10 @@ td {
 .week-day {
   text-align: center;
   height: 40px;
+}
+
+.background-red {
+  background: "blue";
 }
 
 .empty-slot {
